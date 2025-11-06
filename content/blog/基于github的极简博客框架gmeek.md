@@ -1,6 +1,6 @@
 ---
 title: 基于github的极简博客框架:gmeek
-date: 2025-11-06T11:54:10.652Z
+date: 2025-06-09T11:54:10.652Z
 ---
 
 Gmeek 是一个超轻量级的开源博客框架，完全依托 GitHub Pages、GitHub Issues 和 GitHub Actions 构建，无需本地部署，从搭建到发布仅需 3步，让每个人都能轻松拥有一个技术博客！  
